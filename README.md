@@ -1,2 +1,2 @@
 # DOM-tree-data
-Using DOM of 100 webpages, generate data about the structure of a webpage.
+Uses DOM of 100 webpages to generate data about the structure of a webpage.
